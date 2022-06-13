@@ -1,0 +1,6 @@
+[submodule "dtp_outcome_mesures"]
+	path = dtp_outcome_mesures
+	url = https://github.com/llyxperf/dtp_outcome_mesures.git
+[submodule "dtp_test_scripts"]
+	path = dtp_test_scripts
+	url = git@github.com:simonkorl/dtp_test_scripts.git
